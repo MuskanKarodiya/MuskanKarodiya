@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C084FC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muskankarodiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C084FC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-karodiya-132222261/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23E879F9.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskankarodiya123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanKarodiya)
 
