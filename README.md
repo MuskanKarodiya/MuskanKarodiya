@@ -5,12 +5,12 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║      M U S K A N   K A R O D I Y A                              ║
-║      AI & Data Science  ·  NMIT Bengaluru                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+                     ╔══════════════════════════════════════════════════════════════════╗
+                     ║                                                                  ║
+                     ║                 M U S K A N   K A R O D I Y A                    ║
+                     ║              AI & Data Science  ·  NMIT Bengaluru                ║
+                     ║                                                                  ║
+                     ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=620&lines=NLP+%C2%B7+Computer+Vision+%C2%B7+Production+ML+Systems;I+don%27t+just+study+machine+learning+%E2%80%94+I+ship+it.)
