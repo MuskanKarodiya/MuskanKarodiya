@@ -192,13 +192,13 @@ CLI trip planner with live weather, maps integration, and 50/30/20 budget logic 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=333333&icon_color=333333&text_color=444444"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=333333&icon_color=333333&text_color=444444"/>
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=333333&text_color=444444&langs_count=6"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=333333&text_color=444444&langs_count=6"/>
 
 <br/><br/>
 
-<img height="130" src="https://streak-stats.demolab.com?user=MuskanKarodiya&theme=dark&hide_border=true&background=000000&ring=333333&fire=444444&currStreakLabel=444444&sideLabels=333333&dates=333333&sideNums=555555&currStreakNum=666666"/>
+<img height="200" src="https://streak-stats.demolab.com?user=MuskanKarodiya&theme=dark&hide_border=true&background=000000&ring=333333&fire=444444&currStreakLabel=444444&sideLabels=333333&dates=333333&sideNums=555555&currStreakNum=666666"/>
 
 </div>
 
