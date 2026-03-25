@@ -1,27 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║      M U S K A N   K A R O D I Y A                          ║
-║      AI & Data Science · NMIT Bengaluru                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=NLP+%7C+Computer+Vision+%7C+Production+ML+Systems;I+don't+just+study+machine+learning+—+I+ship+it.)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0a0a0a)](https://linkedin.com/in/muskankarodiya)
-[![Gmail](https://img.shields.io/badge/─%20Email%20─-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0a0a0a)](mailto:muskankarodiya123@gmail.com)
-[![GitHub](https://img.shields.io/badge/─%20GitHub%20─-0a0a0a?style=for-the-badge&logo=github&logoColor=fff&labelColor=0a0a0a)](https://github.com/MuskanKarodiya)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║      M U S K A N   K A R O D I Y A                              ║
+║      AI & Data Science  ·  NMIT Bengaluru                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=620&lines=NLP+%C2%B7+Computer+Vision+%C2%B7+Production+ML+Systems;I+don%27t+just+study+machine+learning+%E2%80%94+I+ship+it.)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=555555&labelColor=000000)](https://linkedin.com/in/muskankarodiya)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=555555&labelColor=000000)](mailto:muskankarodiya123@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=555555&labelColor=000000)](https://github.com/MuskanKarodiya)
 
 </div>
 
@@ -31,72 +29,92 @@
 
 <br/>
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=666666&langs_count=6"/>
-
-### `> whoami`
-
 ```python
+# ── WHOAMI ─────────────────────────────────────────────────────────────────────
+
 muskan = {
   "role"     : "AI/DS Student @ NMIT Bengaluru",
-  "building" : "Real-Time Fraud Detection (FastAPI · XGBoost · PostgreSQL)",
-  "shipped"  : "Task Optimizer AI — multimodal burnout detection",
-  "learning" : ["React.js", "FastAPI", "Production ML"],
+  "building" : "Real-Time Fraud Detection  (FastAPI · XGBoost · PostgreSQL)",
+  "shipped"  : "Task Optimizer AI  —  multimodal burnout detection",
+  "learning" : ["React.js", "FastAPI", "Production ML Systems"],
   "domain"   : ["NLP", "Computer Vision", "Data Pipelines"],
   "outside"  : ["Dancing 💃", "Fashion 👗", "Events 🎪"],
   "fact"     : "debug at 2am · perform on stage on weekends"
 }
 ```
 
-<br clear="right"/>
-
 <br/>
 
 ---
 
 <br/>
 
-### `> ls ./projects`
-
-<br/>
+```
+// PROJECTS ───────────────────────────────────────────────────────────────────
+```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[⬡ Task Optimizer AI](https://github.com/MuskanKarodiya/Task_optimizerAI)**
+```
+01 ── Task Optimizer AI
+```
+**[↗ view repo](https://github.com/MuskanKarodiya/Task_optimizerAI)**
 
-Multimodal stress & burnout detection platform. Fuses NLP sentiment signals with facial expression analysis through a custom Fusion Engine to surface *masked* burnout that text alone can't catch.
+Multimodal burnout detection. Fuses NLP sentiment + facial signals via a custom Fusion Engine to surface *masked* stress that text alone misses.
 
-`DistilBERT` `VADER` `DeepFace` `OpenCV` `Streamlit` `SQLite`
+![](https://img.shields.io/badge/DistilBERT-000?style=flat-square)
+![](https://img.shields.io/badge/VADER-000?style=flat-square)
+![](https://img.shields.io/badge/DeepFace-000?style=flat-square)
+![](https://img.shields.io/badge/OpenCV-000?style=flat-square)
+![](https://img.shields.io/badge/Streamlit-000?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**[⬡ Real-Time Fraud Detection](https://github.com/MuskanKarodiya/Real-Time-Fraud-Detection-in-Digital-Payments)**
+```
+02 ── Real-Time Fraud Detection
+```
+**[↗ view repo](https://github.com/MuskanKarodiya/Real-Time-Fraud-Detection-in-Digital-Payments)**
 
-Production-grade ML pipeline for payment fraud scoring. Designed for <200ms latency with a full CI/CD workflow and containerised deployment.
+Production ML pipeline for payment fraud scoring at **<200ms** latency. Full CI/CD and containerised deployment.
 
-`FastAPI` `XGBoost` `PostgreSQL` `Docker` `GitHub Actions`
+![](https://img.shields.io/badge/FastAPI-000?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-000?style=flat-square)
+![](https://img.shields.io/badge/PostgreSQL-000?style=flat-square)
+![](https://img.shields.io/badge/Docker-000?style=flat-square)
+![](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⬡ Waste Image Classifier**
+```
+03 ── Waste Image Classifier
+```
 
-9-class real-world waste classification — benchmarked three architectures to find what actually generalises.
+9-class real-world waste classification. Benchmarked custom CNN vs MobileNetV2 vs DenseNet121 to find what actually generalises.
 
-`TensorFlow` `Keras` `MobileNetV2` `DenseNet121` `Streamlit`
+![](https://img.shields.io/badge/TensorFlow-000?style=flat-square)
+![](https://img.shields.io/badge/Keras-000?style=flat-square)
+![](https://img.shields.io/badge/MobileNetV2-000?style=flat-square)
+![](https://img.shields.io/badge/DenseNet121-000?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**⬡ Travel Itinerary Planner**
+```
+04 ── Travel Itinerary Planner
+```
 
-CLI trip planner with live weather, maps, and 50/30/20 budget logic baked in.
+CLI trip planner with live weather, maps integration, and 50/30/20 budget logic baked into the planning engine.
 
-`Java` `GSON` `OpenWeatherMap API` `Google Maps API`
+![](https://img.shields.io/badge/Java-000?style=flat-square)
+![](https://img.shields.io/badge/GSON-000?style=flat-square)
+![](https://img.shields.io/badge/OpenWeatherMap_API-000?style=flat-square)
+![](https://img.shields.io/badge/Google_Maps_API-000?style=flat-square)
 
 </td>
 </tr>
@@ -108,38 +126,38 @@ CLI trip planner with live weather, maps, and 50/30/20 budget logic baked in.
 
 <br/>
 
-### `> cat ./stack.txt`
+```
+// STACK ──────────────────────────────────────────────────────────────────────
+```
 
-<br/>
+**LANGUAGES**
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=444444)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=444444)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=444444)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=444444)
 
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=white)
+**ML & DATA**
 
-**ML & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=444444)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=444444)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=444444)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=444444)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=444444)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logoColor=444444)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=444444)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=444444)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-111?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111?style=flat-square&logo=huggingface&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-111?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111?style=flat-square&logo=numpy&logoColor=white)
+**TOOLS & PLATFORMS**
 
-**Tools & Platforms**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-111?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-111?style=flat-square&logo=powerbi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=444444)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=444444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=444444)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=444444)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=444444)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=444444)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=444444)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=444444)
 
 <br/>
 
@@ -147,17 +165,19 @@ CLI trip planner with live weather, maps, and 50/30/20 budget logic baked in.
 
 <br/>
 
-### `> cat ./experience.log`
-
-<br/>
+```
+// EXPERIENCE ─────────────────────────────────────────────────────────────────
+```
 
 ```
-▸ Data Science & Analytics Intern    Amdox Technologies    Nov 2025 – Jan 2026    Remote
-  └─ Built Task Optimizer AI · NLP + CV for stress detection · Streamlit + SQLite dashboard
+▸ Data Science & Analytics Intern    Amdox Technologies    Nov 2025 – Jan 2026
+  └─ Built Task Optimizer AI · NLP + CV for stress detection
+  └─ Streamlit dashboard with SQLite backend
   └─ Surfaced masked burnout via multi-signal pattern analysis
 
-▸ Java Intern                        Code Alpha             Dec 2024               Remote
-  └─ Banking system & hotel reservation app · OOP · clean architecture
+▸ Java Intern                        Code Alpha             Dec 2024
+  └─ Banking system & hotel reservation app
+  └─ OOP · clean modular architecture
 ```
 
 <br/>
@@ -166,15 +186,19 @@ CLI trip planner with live weather, maps, and 50/30/20 budget logic baked in.
 
 <br/>
 
-### `> git log --oneline`
-
-<br/>
+```
+// GIT LOG ────────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=555555&include_all_commits=true&count_private=true" height="155"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=MuskanKarodiya&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=555555" height="155"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=333333&icon_color=333333&text_color=444444"/>
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=333333&text_color=444444&langs_count=6"/>
+
+<br/><br/>
+
+<img height="130" src="https://streak-stats.demolab.com?user=MuskanKarodiya&theme=dark&hide_border=true&background=000000&ring=333333&fire=444444&currStreakLabel=444444&sideLabels=333333&dates=333333&sideNums=555555&currStreakNum=666666"/>
 
 </div>
 
@@ -184,9 +208,9 @@ CLI trip planner with live weather, maps, and 50/30/20 budget logic baked in.
 
 <br/>
 
-### `> ls ./extras`
-
-<br/>
+```
+// EXTRAS ─────────────────────────────────────────────────────────────────────
+```
 
 ```
 certifications/
@@ -212,12 +236,10 @@ achievements/
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+—+let's+build+something+that+matters.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=1000&color=222222&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%E2%80%94+let%27s+build+something+that+matters.)
 
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MuskanKarodiya.MuskanKarodiya&left_color=111111&right_color=333333&left_text=visitors)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MuskanKarodiya.MuskanKarodiya&left_color=000000&right_color=111111&left_text=visitors&style=flat-square)
 
 </div>
