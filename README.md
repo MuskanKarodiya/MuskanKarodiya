@@ -5,12 +5,12 @@
 <br/>
 
 ```
-            ╔══════════════════════════════════════════════════════════════════╗
-            ║                                                                  ║
-            ║                 M U S K A N   K A R O D I Y A                    ║
-            ║              AI & Data Science  ·  NMIT Bengaluru                ║
-            ║                                                                  ║
-            ╚══════════════════════════════════════════════════════════════════╝
+      ╔══════════════════════════════════════════════════════════════════╗
+      ║                                                                  ║
+      ║                 M U S K A N   K A R O D I Y A                    ║
+      ║              AI & Data Science  ·  NMIT Bengaluru                ║
+      ║                                                                  ║
+      ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=620&lines=NLP+%C2%B7+Computer+Vision+%C2%B7+Production+ML+Systems;I+don%27t+just+study+machine+learning+%E2%80%94+I+ship+it.)
@@ -192,9 +192,9 @@ CLI trip planner with live weather, maps integration, and 50/30/20 budget logic 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=333333&icon_color=333333&text_color=444444"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuskanKarodiya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=333333&icon_color=333333&text_color=444444"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=333333&text_color=444444&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKarodiya&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=333333&text_color=444444&langs_count=6"/>
 
 <br/><br/>
 
